@@ -19,3 +19,4 @@ header_nav = [
   { url = "/", name_en = "/home/"},
 ]
 twitter_card = false
+default_theme = "light"
