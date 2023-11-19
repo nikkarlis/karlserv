@@ -1,5 +1,4 @@
-# The URL the site will be built for
-base_url = "https://karlserv.eu"
+base_url = "https://www.karlserv.eu"
 
 title = "KarlServ"
 description = "Just another random developer"
@@ -13,8 +12,6 @@ build_search_index = false
 highlight_code = true
 
 [extra]
-# Put all your custom variables here
-
 header_nav = [
   { url = "/", name_en = "/home/"},
 ]
